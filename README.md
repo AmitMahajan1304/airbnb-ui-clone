@@ -45,3 +45,8 @@ src/
 - Reusable UI components
 - Simple and readable code structure
 
+## ⚠️ Disclaimer
+This project is a **UI clone created for educational purposes only**. 
+It is not affiliated with, endorsed by, or connected to Airbnb, Inc.
+
+This is a portfolio project to demonstrate frontend development skills.
